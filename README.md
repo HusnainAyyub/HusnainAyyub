@@ -22,7 +22,7 @@
 - 🛡️ Building **LLM Sentinel AI**: detection of LLM jailbreak and prompt injection attacks
 - 🧠 Specialisation: **Generative AI** and **Agentic AI Workflows**
 - 💼 Experience: **TMC** intern, **ISPR** intern, part-time manager
-- 🏃 Outside code: 18 km marathon runner, AI tools creator [@future.in60](https://www.instagram.com/future.in60)
+- 🏃 Outside code: 18 km marathon runner, AI tools creator
 - 🟢 **Open to internships, freelance projects and remote opportunities**
 
 > *Let's build intelligent systems together!*
