@@ -1,79 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:388BFD&height=180&section=header&text=Husnain%20Ayyub&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20%7C%20Python%20Backend%20Developer%20%7C%20Generative%20AI%20Enthusiast&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,30:1F6FEB,65:7C3AED,100:DB2777&height=210&section=header&text=Husnain%20Ayyub&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=AI/ML%20Engineer%20%7C%20Python%20Backend%20Developer%20%7C%20Generative%20AI%20Enthusiast&descAlignY=56&descSize=17" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=388BFD&center=true&vCenter=true&width=700&lines=Building+intelligent+systems+with+Python+and+AI;Final+Year+Project%3A+LLM+Sentinel+AI;Prompt+Injection+%26+Jailbreak+Detection;Open+to+Internships+%7C+Freelance+%7C+Remote+Work)](https://github.com/HusnainAyyub)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&pause=900&color=22D3EE&center=true&vCenter=true&width=760&lines=Building+intelligent+systems+with+Python+%26+AI;FYP%3A+LLM+Sentinel+AI+%F0%9F%9B%A1%EF%B8%8F+Prompt+Injection+Detection;FastAPI+%7C+Scikit-learn+%7C+Agentic+AI+Workflows;Open+to+Internships+%7C+Freelance+%7C+Remote+Work)](https://github.com/HusnainAyyub)
+
+![Profile Views](https://komarev.com/ghpvc/?username=HusnainAyyub&label=Profile%20Views&color=7C3AED&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/HusnainAyyub?label=Followers&style=for-the-badge&color=1F6FEB)
+[![Portfolio](https://img.shields.io/badge/Portfolio-husnainayyub.github.io-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://husnainayyub.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Husnain%20Ayyub-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-ayyub-99a419385)
 
 </div>
 
-## About Me
+## 🚀 About Me
 
-- Location: Lahore, Pakistan
-- Education: BS Computer Science, Lahore Garrison University (7th Semester)
-- Current focus: Generative AI, Agentic AI Workflows, AI Security
-- Final Year Project: **LLM Sentinel AI**, AI-Powered Detection and Security Assessment of LLM Jailbreak and Prompt Injection Attacks. My role: AI/ML, dataset curation, rule generation, and classifier implementation.
-- Status: Currently a student, but **open to internships, freelance projects, and remote opportunities**.
+<table>
+<tr>
+<td width="58%" valign="top">
 
-> Let's build intelligent systems together!
+- 📍 **Lahore, Pakistan**
+- 🎓 **BS Computer Science**, Lahore Garrison University — **7th Semester**
+- 🛡️ Building **LLM Sentinel AI**: detection of LLM jailbreak and prompt injection attacks
+- 🧠 Specialisation: **Generative AI** and **Agentic AI Workflows**
+- 💼 Experience: **TMC** intern, **ISPR** intern, part-time manager
+- 🏃 Outside code: 18 km marathon runner, AI tools creator [@future.in60](https://www.instagram.com/future.in60)
+- 🟢 **Open to internships, freelance projects and remote opportunities**
 
-## Tech Stack & Skills
+> *Let's build intelligent systems together!*
 
-### Core Languages & Frameworks
-- **Languages:** Python, C++, SQL, HTML/CSS/JS
-- **Backend:** FastAPI, Python Backend Development
-- **Web Development:** Full-stack prototyping and implementation
+</td>
+<td width="42%" valign="top">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://github-readme-stats.vercel.app/api?username=HusnainAyyub&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%"/>
 
-### AI & Machine Learning
-- **Specialization:** Generative AI, Agentic AI Workflows
-- **Tools/Libraries:** Pandas, Scikit-learn, NumPy, and related data science ecosystem
+</td>
+</tr>
+</table>
 
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-## Experience & Projects
-
-- **Intern @ TMC Private Limited** (13 July – 21 August 2026, 6 weeks): completed internship with commendable performance, per the completion letter from the Head of HR.
-- **Public Relations Intern @ ISPR** (2025): strategic content development and defense communication projects, media data analysis and institutional reporting.
-- **Part-Time Manager** @ Prestige Elite Chauffeurs Ltd.
-- **LLM Sentinel AI (Final Year Project):** Focusing on AI/ML dataset curation, rule generation, and classifier implementation.
-- **DemoBlaze STQA Automation Portfolio** (May 2026): Selenium UI automation with Page Object Model, Locust load testing for 500 concurrent users, API validation with Postman and Newman.
-- **Cyber Warfare System Simulation** (Dec 2025): C and Linux, POSIX Shared Memory and Semaphores for IPC.
-- **Smart Airport Network Management** (May 2026): Cisco Packet Tracer, VTP, OSPF, secure VLANs and DHCP.
-- **Agentic AI & Hackathons:** Participant in the Innovista National Agentic AI Hackathon and Google Developers' Kaggle AI Agents Intensive Course.
-- **Web Prototyping:** Developed custom website prototypes for local businesses.
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [LLM Sentinel AI](https://github.com/HusnainAyyub/llm-sentinel-ai) | Detection and security assessment of LLM jailbreak and prompt injection attacks, with a rule-based engine, ML classifier, risk score and category output | Python, FastAPI, Scikit-learn, Pandas |
-| [Prompt Injection Classifier](https://github.com/HusnainAyyub/prompt-injection-classifier) | Text classification model that separates benign, jailbreak, direct injection and indirect injection prompts | Python, Scikit-learn, TF-IDF |
-| [Aura Engine](https://github.com/HusnainAyyub/aura-engine) | Web application with routes, services and tests | Python, HTML |
-
-## GitHub Stats
+## 🌟 Featured Projects
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=HusnainAyyub&show_icons=true&theme=github_dark&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainAyyub&layout=compact&theme=github_dark" height="165"/>
-
-<img src="https://streak-stats.demolab.com?user=HusnainAyyub&theme=github-dark-blue" height="165"/>
+[![LLM Sentinel AI](https://github-readme-stats.vercel.app/api/pin/?username=HusnainAyyub&repo=llm-sentinel-ai&theme=tokyonight&hide_border=false)](https://github.com/HusnainAyyub/llm-sentinel-ai)
+[![Prompt Injection Classifier](https://github-readme-stats.vercel.app/api/pin/?username=HusnainAyyub&repo=prompt-injection-classifier&theme=tokyonight&hide_border=false)](https://github.com/HusnainAyyub/prompt-injection-classifier)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=HusnainAyyub&repo=HusnainAyyub.github.io&theme=tokyonight&hide_border=false)](https://github.com/HusnainAyyub/HusnainAyyub.github.io)
 
 </div>
 
-## Connect with Me
+| Project | What it does | Stack |
+|---|---|---|
+| 🛡️ **[LLM Sentinel AI](https://github.com/HusnainAyyub/llm-sentinel-ai)** (FYP) | Rule engine + ML classifier scores every prompt for jailbreak / injection risk. Dataset: 2,000 prompts, 4 categories. My role: dataset, rules, classifier. ⭐ Try the live demo on my [portfolio](https://husnainayyub.github.io/#demo) | Python, FastAPI, Scikit-learn, Pandas |
+| 🤖 **[Prompt Injection Classifier](https://github.com/HusnainAyyub/prompt-injection-classifier)** | Standalone TF-IDF + Logistic Regression classifier: benign vs jailbreak vs direct vs indirect injection | Python, Scikit-learn |
+| 🧪 **DemoBlaze STQA Automation** | Selenium UI automation (Page Object Model), Locust load test with 500 concurrent users, Postman / Newman API validation | Python, Selenium, Locust, Postman |
+| ⚔️ **Cyber Warfare Simulation** | Autonomous processes fighting in real time, synced with POSIX shared memory and semaphores | C, Linux, IPC |
+| ✈️ **Smart Airport Network** | Multi-layer airport network: VTP, OSPF routing, secure VLANs, DHCP pools in Cisco Packet Tracer | Networking |
 
-- **LinkedIn:** [Husnain Ayyub](https://www.linkedin.com/in/husnain-ayyub-99a419385)
-- **GitHub:** [github.com/HusnainAyyub](https://github.com/HusnainAyyub)
+## 🛠️ Tech Arsenal
 
----
-*Let's build intelligent systems together!*
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,fastapi,sklearn,pandas,numpy,selenium,mysql,html,css,js,git,github,linux,vscode&perline=8" alt="Tech stack icons"/>
+
+</div>
+
+**AI & ML:** Generative AI, Agentic AI Workflows, Scikit-learn, Pandas, NumPy
+**Backend:** FastAPI, Python backend development, REST APIs
+**Testing & QA:** Selenium, Pytest, Locust, Postman, Newman
+**Networking & Systems:** Cisco Packet Tracer, VLAN, OSPF, DHCP, Subnetting, Linux Shared Memory, IPC, Semaphores, MIPS Assembly, CUDA
+
+<details>
+<summary><b>📌 More about my experience (click to expand)</b></summary>
+
+<br>
+
+- **Intern @ TMC Private Limited** (13 July – 21 August 2026, 6 weeks): completed internship with **commendable performance**, per the completion letter from the Head of HR.
+- **Public Relations Intern @ ISPR** (2025): strategic content development and defense communication projects, media data analysis, institutional reporting.
+- **Part-Time Manager @ Prestige Elite Chauffeurs Ltd.**
+- **Agentic AI & Hackathons:** Participant in the **Innovista National Agentic AI Hackathon** and the Google Developers' **Kaggle AI Agents Intensive Course**.
+- **Web Prototyping:** Developed custom website prototypes for local businesses.
+- **Hunarmand Punjab:** Python Programming, March 2026.
+- **Titans Arena Branding** (Dec 2025): Creative Lead, unified branding for a university sports festival.
+
+</details>
+
+## 📊 GitHub in Motion
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=HusnainAyyub&theme=tokyonight&no-frame=true&margin-w=6" width="100%" alt="GitHub trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HusnainAyyub&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity graph"/>
+
+<img src="https://streak-stats.demolab.com?user=HusnainAyyub&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HusnainAyyub&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Top languages"/>
+
+</div>
+
+### 🐍 Watch the snake eat my contributions
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/HusnainAyyub/HusnainAyyub/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" width="100%"/>
+
+</div>
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/husnain-ayyub-99a419385)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Site-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white)](https://husnainayyub.github.io)
+[![Email](https://img.shields.io/badge/Email-husnainayyub05%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:husnainayyub05@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HusnainAyyub)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DB2777,35:7C3AED,70:1F6FEB,100:05070D&height=120&section=footer" width="100%"/>
