@@ -48,7 +48,7 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| 🛡️ **[LLM Sentinel AI](https://github.com/HusnainAyyub/llm-sentinel-ai)** (FYP) | Rule engine + ML classifier scores every prompt for jailbreak / injection risk. Dataset: 2,000 prompts, 4 categories. My role: dataset, rules, classifier. ⭐ Try the live demo on my [portfolio](https://husnainayyub.github.io/#demo) | Python, FastAPI, Scikit-learn, Pandas |
+| 🛡️ **[LLM Sentinel AI](https://github.com/HusnainAyyub/llm-sentinel-ai)** (FYP) | Detecting LLM jailbreak and prompt injection attacks: rule-based checks plus an ML classifier with risk scores, and a reporting dashboard. Dataset so far: 32 labelled prompts across 4 categories. My role: dataset, rules, classifier. ⭐ Try the live demo on my [portfolio](https://husnainayyub.github.io/#demo) | Python, FastAPI, Scikit-learn, Pandas |
 | 🤖 **[Prompt Injection Classifier](https://github.com/HusnainAyyub/prompt-injection-classifier)** | Standalone TF-IDF + Logistic Regression classifier: benign vs jailbreak vs direct vs indirect injection | Python, Scikit-learn |
 | 🧪 **DemoBlaze STQA Automation** | Selenium UI automation (Page Object Model), Locust load test with 500 concurrent users, Postman / Newman API validation | Python, Selenium, Locust, Postman |
 | ⚔️ **Cyber Warfare Simulation** | Autonomous processes fighting in real time, synced with POSIX shared memory and semaphores | C, Linux, IPC |
