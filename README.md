@@ -4,7 +4,7 @@
 
 # Husnain Ayyub
 
-AI/ML Engineer. Python backend developer. Generative AI.
+AI Engineer. Python backend developer. Generative AI.
 
 Lahore, Pakistan. BS Computer Science, Lahore Garrison University, 7th semester.
 
