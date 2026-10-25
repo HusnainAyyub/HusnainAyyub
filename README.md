@@ -1,4 +1,4 @@
-![banner](city-banner.jpg)
+[![My city, animated — click it](city-animated.svg)](https://husnainayyub.github.io)
 
 <img src="husnain-profile-perfect.jpg" width="150" alt="Husnain Ayyub" />
 
@@ -11,6 +11,11 @@ Lahore, Pakistan. BS Computer Science, Lahore Garrison University, 7th semester.
 [Portfolio](https://husnainayyub.github.io) · [LinkedIn](https://www.linkedin.com/in/husnain-ayyub-99a419385)
 
 Open to internships, freelance and remote work.
+
+The banner above is not a picture. It's drawn in code, it animates on its own —
+clouds drift, windows blink, the buildings grow, and the snake runs along the
+bottom. Click it and it takes you to my portfolio. The three buildings are my
+three projects.
 
 ## Snake
 
