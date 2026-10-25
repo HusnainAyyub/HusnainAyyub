@@ -1,50 +1,68 @@
-<img src="husnain-original-crop.jpg" align="right" width="260" alt="Husnain Ayyub" />
+![The city I'm building](city-banner.jpg)
+
+<table>
+<tr>
+<td width="170" valign="top">
+<img src="husnain-profile-perfect.jpg" width="150" alt="Husnain Ayyub" />
+</td>
+<td valign="top">
 
 # Husnain Ayyub
 
 **AI/ML Engineer · Python Backend Developer · Generative AI Enthusiast**
 
-BS Computer Science, Lahore Garrison University (7th semester) · Lahore, Pakistan
+📍 Lahore, Pakistan · 🎓 BS Computer Science, Lahore Garrison University (7th semester)
 
-Open to internships, freelance and remote work.
+💼 Open to internships, freelance and remote work
 
-- 🔗 Portfolio: https://husnainayyub.github.io
-- 💼 LinkedIn: https://www.linkedin.com/in/husnain-ayyub-99a419385
+🔗 [Portfolio](https://husnainayyub.github.io) · [LinkedIn](https://www.linkedin.com/in/husnain-ayyub-99a419385)
 
-## What I'm building right now
+</td>
+</tr>
+</table>
 
-**LLM Sentinel AI** — my Final Year Project. AI-powered detection and security
-assessment of LLM jailbreak and prompt injection attacks: a rule-based +
-Scikit-learn detection engine with a risk score and category, a sandbox
-chatbot, and a reporting dashboard.
+## 📊 My GitHub, at a glance
 
-→ https://github.com/HusnainAyyub/llm-sentinel-ai
+| | |
+|---|---|
+| **Public repositories** | 5 |
+| **Core projects** | 3 — LLM Sentinel AI, Prompt Injection Classifier, Change Order Extractor |
+| **Main language** | Python |
+| **Backend** | FastAPI |
 
-**Prompt Injection Classifier** — text classifier separating benign, jailbreak,
-direct injection and indirect injection prompts, using TF-IDF and Logistic
-Regression.
+## 🏙️ The city I'm building
 
-→ https://github.com/HusnainAyyub/prompt-injection-classifier
+Not a contribution count — a picture of what I'm actually building. The tallest
+building is the FYP, the rest are the projects around it.
 
-**Change Order Extractor** — extracts structured fields from messy change
-order PDFs and text into validated JSON, with a confidence score per field.
+| Building | Project | What it does |
+|---|---|---|
+| 🏙️ Tallest | [LLM Sentinel AI](https://github.com/HusnainAyyub/llm-sentinel-ai) | Final Year Project: detects LLM jailbreak and prompt injection attacks, rule-based + Scikit-learn, with a risk score, sandbox chatbot and dashboard |
+| 🏢 | [Prompt Injection Classifier](https://github.com/HusnainAyyub/prompt-injection-classifier) | Separates benign, jailbreak, direct injection and indirect injection prompts with TF-IDF + Logistic Regression |
+| 🏢 | [Change Order Extractor](https://github.com/HusnainAyyub/change-order-extractor) | Turns messy change order PDFs and text into validated JSON, with a confidence score per field |
 
-→ https://github.com/HusnainAyyub/change-order-extractor
+## 🧱 Language Stack
 
-## Stack
+*By repository, not by lines of code — so it's honest, not inflated.*
 
-- **Languages:** Python · C++ · SQL · HTML · CSS · JavaScript
-- **Backend:** FastAPI
-- **AI/ML:** Pandas · Scikit-learn · NumPy
-- **Tools:** Git · VS Code · Selenium · Pytest · Postman
+| Language | Share | Bar |
+|---|---|---|
+| Python | 60% | ████████████░░░░░░░░ |
+| HTML | 40% | ████████░░░░░░░░░░░░ |
 
-## Experience
+**Also in my stack:** C++ · SQL · CSS · JavaScript · Pandas · Scikit-learn · NumPy · Selenium · Pytest
+
+## 💼 Experience
 
 - **Intern, TMC Private Limited** — 6 weeks, Jul–Aug 2026
 - **Public Relations Intern, ISPR** — Lahore, 2025
 - **Part-Time Manager, Prestige Elite Chauffeurs Ltd**
 
+## 📈 My real contribution graph
+
+![Husnain's GitHub contribution graph](https://ghchart.rshah.org/22c55e/HusnainAyyub)
+
 ---
 
-*This README is written in the GitSkins style: one clean profile card, real
-projects only, no inflated stats.*
+*GitSkins-inspired, built unique for Husnain: his photo, his projects, his
+stack — no copied template, no invented stats.*
