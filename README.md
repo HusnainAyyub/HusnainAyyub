@@ -40,7 +40,7 @@ three projects.
 - Intern, TMC Private Limited, 6 weeks, Jul to Aug 2026.
 - Public Relations Intern, ISPR, Lahore, 2025.
 - Part-Time Manager, Prestige Elite Chauffeurs Ltd.
-- Stack: Python, C++, SQL, HTML, CSS, JavaScript, FastAPI, Pandas, Scikit-learn, NumPy, Selenium, Pytest, Postman.
+- Stack: Python, C++, HTML, CSS, JavaScript, FastAPI, Pandas, Scikit-learn, NumPy.
 
 </details>
 
@@ -64,7 +64,7 @@ I build AI tools, Python backends and full sites. Portfolio and LinkedIn are at 
 
 ## Stack
 
-Python, C++, SQL, HTML, CSS, JavaScript. FastAPI. Pandas, Scikit-learn, NumPy.
+Python, C++, HTML, CSS, JavaScript. FastAPI. Pandas, Scikit-learn, NumPy.
 
 ## Contributions
 
