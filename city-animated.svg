@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="320" viewBox="0 0 880 320">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#0f2a1d"/>
+    </linearGradient>
+  </defs>
+  <rect width="880" height="320" fill="url(#sky)"/>
+  <!-- drifting clouds -->
+  <g fill="#1f6feb" opacity="0.35">
+    <ellipse cx="120" cy="50" rx="60" ry="14"><animate attributeName="cx" from="-80" to="960" dur="60s" repeatCount="indefinite"/></ellipse>
+    <ellipse cx="620" cy="35" rx="70" ry="12"><animate attributeName="cx" from="420" to="960" dur="85s" repeatCount="indefinite"/></ellipse>
+  </g>
+  <!-- stars twinkling -->
+  <g fill="#ffffff">
+    <circle cx="80" cy="30" r="2"><animate attributeName="opacity" values="1;0.2;1" dur="2.5s" repeatCount="indefinite"/></circle>
+    <circle cx="300" cy="20" r="1.5"><animate attributeName="opacity" values="0.2;1;0.2" dur="3.5s" repeatCount="indefinite"/></circle>
+    <circle cx="540" cy="28" r="2"><animate attributeName="opacity" values="1;0.3;1" dur="3s" repeatCount="indefinite"/></circle>
+    <circle cx="760" cy="22" r="1.5"><animate attributeName="opacity" values="0.3;1;0.3" dur="4s" repeatCount="indefinite"/></circle>
+  </g>
+  <!-- ground -->
+  <rect y="260" width="880" height="60" fill="#161b22"/>
+  <!-- building 1: LLM Sentinel AI, tallest, grows in -->
+  <g>
+    <rect x="120" y="90" width="130" height="170" fill="#0f6d31">
+      <animate attributeName="height" from="0" to="170" dur="1.8s" fill="freeze"/>
+      <animate attributeName="y" from="260" to="90" dur="1.8s" fill="freeze"/>
+    </rect>
+    <g fill="#00c647">
+      <rect x="140" y="110" width="14" height="10"><animate attributeName="opacity" values="1;0.2;1" dur="2s" repeatCount="indefinite"/></rect>
+      <rect x="170" y="140" width="14" height="10"><animate attributeName="opacity" values="0.2;1;0.2" dur="2.8s" repeatCount="indefinite"/></rect>
+      <rect x="200" y="110" width="14" height="10"><animate attributeName="opacity" values="1;0.3;1" dur="3.2s" repeatCount="indefinite"/></rect>
+      <rect x="140" y="190" width="14" height="10"><animate attributeName="opacity" values="0.3;1;0.3" dur="2.4s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="185" y="285" text-anchor="middle" fill="#e6edf3" font-family="monospace" font-size="14">LLM Sentinel AI</text>
+  </g>
+  <!-- building 2: Prompt Injection Classifier -->
+  <g>
+    <rect x="340" y="140" width="130" height="120" fill="#034525">
+      <animate attributeName="height" from="0" to="120" dur="1.8s" begin="0.4s" fill="freeze"/>
+      <animate attributeName="y" from="260" to="140" dur="1.8s" begin="0.4s" fill="freeze"/>
+    </rect>
+    <g fill="#00c647">
+      <rect x="360" y="160" width="14" height="10"><animate attributeName="opacity" values="1;0.2;1" dur="2.6s" repeatCount="indefinite"/></rect>
+      <rect x="400" y="190" width="14" height="10"><animate attributeName="opacity" values="0.2;1;0.2" dur="3s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="405" y="285" text-anchor="middle" fill="#e6edf3" font-family="monospace" font-size="14">Classifier</text>
+  </g>
+  <!-- building 3: Change Order Extractor -->
+  <g>
+    <rect x="560" y="165" width="130" height="95" fill="#01311f">
+      <animate attributeName="height" from="0" to="95" dur="1.8s" begin="0.8s" fill="freeze"/>
+      <animate attributeName="y" from="260" to="165" dur="1.8s" begin="0.8s" fill="freeze"/>
+    </rect>
+    <g fill="#00c647">
+      <rect x="580" y="185" width="14" height="10"><animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite"/></rect>
+      <rect x="620" y="210" width="14" height="10"><animate attributeName="opacity" values="0.3;1;0.3" dur="3.4s" repeatCount="indefinite"/></rect>
+    </g>
+    <text x="625" y="285" text-anchor="middle" fill="#e6edf3" font-family="monospace" font-size="14">Extractor</text>
+  </g>
+  <!-- moving snake line along the ground -->
+  <g fill="none" stroke="#00c647" stroke-width="4" stroke-linecap="round">
+    <path d="M -40 300 L 920 300" stroke-dasharray="20 14">
+      <animate attributeName="stroke-dashoffset" from="0" to="-340" dur="8s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <text x="440" y="315" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="12">click the banner to visit my portfolio</text>
+</svg>
